@@ -1,6 +1,17 @@
-# 快速开始
+# Wims-tools
 
-wims 项目工具
+wims前端项目工具
+
+### 快速开始
+
+`$git clone https://github.com/Slebee/wims-tools.git`
+
+
+`$npm i`
+
+
+
+### 命令:
 
 - `$wims add|a`   添加repository
 - `$wims list|l`   查看repository
