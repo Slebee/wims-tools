@@ -9,7 +9,9 @@ wims前端项目工具
 
 `$npm i`
 
+`$npm link`
 
+linux下注意权限
 
 ### 命令:
 
