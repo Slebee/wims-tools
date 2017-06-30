@@ -18,4 +18,5 @@ linux下注意权限
 - `$wims add|a`   添加repository
 - `$wims list|l`   查看repository
 - `$wims delete|d`   删除repository
+- `$wims init|i`   下载repository
 - `$wims version`   查看工具版本
