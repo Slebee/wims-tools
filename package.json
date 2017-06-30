@@ -1,0 +1,17 @@
+{
+  "name": "wims-tools",
+  "version": "1.0.0",
+  "description": "A tools for wims project.",
+  "main": "index.js",
+  "author": "slebee",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.0.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.10.0"
+  },
+  "bin": {
+    "wims": "bin/wims"
+  }
+}
