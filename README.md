@@ -3,20 +3,30 @@
 wims前端项目工具
 
 ### 快速开始
+```sh
+$git clone https://github.com/Slebee/wims-tools.git
+$npm i
+$npm link
+```
+linux系统下注意权限
 
-`$git clone https://github.com/Slebee/wims-tools.git`
+# 命令
 
+### `wims create`
+创建模块目录，创建的默认目录请看 [wims-module-template](https://github.com/Slebee/wims-module-template) master
 
-`$npm i`
+### `wims add|a`
 
-`$npm link`
+添加repository
 
-linux下注意权限
+### `wims list|l`
 
-### 命令:
+查看添加repository
 
-- `$wims add|a`   添加repository
-- `$wims list|l`   查看repository
-- `$wims delete|d`   删除repository
-- `$wims init|i`   下载repository
-- `$wims version`   查看工具版本
+### `wims init|i`
+
+根据提示输入来下载repository
+
+### `wims version`
+
+查看工具版本

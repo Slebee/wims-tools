@@ -24,6 +24,14 @@ program
     })
 
 program
+    .command('create <name>')
+    .description('create default module folder')
+    .alias('c')
+    .action(function(name){
+        require('../command/create')(name)
+    })
+
+program
     .command('list')
     .description('check the repositories')
     .alias('l')
