@@ -1,1 +1,1 @@
-{"tpl":{"wims-module-template":{"url":"https://github.com/Slebee/wims-module-template.git","branch":"master"},"wims":{"url":"https://github.com/Slebee/wims.git","branch":"develop"}}}
+{"tpl":{"wims-module-template":{"url":"https://github.com/Slebee/wims-module-template.git","branch":"master"},"wims":{"url":"https://github.com/Slebee/wims.git","branch":"develop"},"wims-components":{"url":"https://github.com/Slebee/wims-components","branch":"master"}}}
